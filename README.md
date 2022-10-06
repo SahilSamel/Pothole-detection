@@ -23,3 +23,21 @@ Darkent needs to be configured before doing the following steps.
 
 ### Local Testing with trained weights-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test.py - Generates the path of a random image when executed. Given with it is the command line code that needs the image path to test the model on a random test image.
+
+## Results
+
+### mAP Calculation
+The calculated mAP(0.5) = 90.02%
+
+![image](https://user-images.githubusercontent.com/81075927/194372877-7e1db724-b04b-484b-abcd-4f8b881cc289.png)
+
+### Testing the model
+Testing with these weights, using the test.py on a randomly chosen test image.
+
+![image](https://user-images.githubusercontent.com/81075927/194373327-d3005709-7985-47ee-ac3d-4f61c106c0e2.png)
+
+Result of Testing
+
+![image](https://user-images.githubusercontent.com/81075927/194373108-39301b64-2302-4d1e-82b9-589eedaa42ca.png)
+
+
