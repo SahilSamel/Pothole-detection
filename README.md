@@ -1,6 +1,9 @@
 # Pothole-detection
 Pothole Recognition using YOLO4
 
+This model has been hosted using the roboflow API. It using a webcam to detect potholes in realtime.
+Here's the link to the [model](https://pothole-detector-69.netlify.app/)
+
 This is a deep learning model for detecting the potholes on roads. This model uses the YOLO-v4.
 
 The total number of images in the dataset was 665 images. Of these images, 70 percent were for training, 20 percent for validation, and 10 percent for testing the effectiveness of the trained model. The images with their respective annotations are given in YOLO Darknet TXT format in the dataset folder, the application https://roboflow.ai was used to generate the dataset.
